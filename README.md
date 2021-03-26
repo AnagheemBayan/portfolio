@@ -1,9 +1,10 @@
 # portfolio
 
 # Number and name of feature: #1 Deployment
+
+
 ![PORTFOLIO](https://anagheem.herokuapp.com/)
 
-![url](https://anagheembayan.github.io/portfolio/)
 
 
 Estimate of time needed to complete: 1 hour
@@ -34,11 +35,16 @@ Finish time: 7:20pm
 Actual time needed to complete: 20 min
 
 
-# Number and name of feature : #4 Modify the contents
+# Number and name of feature :#4 Add functionality
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1h
 
-Start time: 
-Finish time: 
+Start time: 9:00pm 
+Finish time: 10:00pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1h
+
+
+
+
+
